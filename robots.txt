@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.hearttest.xyz/sitemap.xml
+Sitemap: https://hearttest.xyz/sitemap.xml
